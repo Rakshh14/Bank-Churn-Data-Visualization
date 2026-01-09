@@ -1,1 +1,1 @@
-# Bank-Churn-Data-Visualization
+# Bank-Customer-Churn-Data-Visualization
