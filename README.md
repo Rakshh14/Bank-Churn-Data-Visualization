@@ -13,7 +13,7 @@ This project analyzes bank customer churn behavior using Python-based data visua
 
 📁 Dataset Description
 
-- The dataset consists of historical customer-level banking data, including:
+The dataset consists of historical customer-level banking data, including:
 - Demographic attributes: Gender, Age, Geography
 - Account-related features: Tenure, Balance, Number of Products
 - Credit information: Credit Card Status, Credit Score
